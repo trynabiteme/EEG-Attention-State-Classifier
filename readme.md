@@ -1,6 +1,6 @@
 # EEG-based Passive Brain-Computer Interface (BCI) for Attention State Detection
 
-This repository contains code and documentation for a project focused on classifying human mental attention states—focused, unfocused, and drowsy—using EEG data and machine learning. This project was developed as part of the CSCI 490 course at Nazarbayev University, School of Engineering and Digital Sciences. The goal was to design a passive BCI system that can monitor human attention in real-time, with applications in safety-critical fields such as transportation and surveillance.
+This repository contains code and documentation for a project focused on classifying human mental attention states—focused, unfocused, and drowsy—using EEG data and machine learning. The goal was to design a passive BCI system that can monitor human attention in real-time, with applications in safety-critical fields such as transportation and surveillance.
 
 ## Project Overview
 
